@@ -1,3 +1,14 @@
-/** 
-Escribir el CSS necesario aqui
-*/
+.marvel{
+    width: 50%;
+    background: #FFDAB9;
+    padding: 30px;
+    border:dashed;
+    text-align:center;
+    font-size:20px;
+    border: 8px solid 	#8B008B;
+    margin-left: 300px;
+}
+.susu{
+     border:dashed;
+     background:#FFFFFF;
+}
